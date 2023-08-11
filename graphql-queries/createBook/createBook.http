@@ -1,0 +1,17 @@
+GRAPHQL http://localhost:9090/graphql
+
+mutation CreateBook {
+    createBook(
+        bookRequestModel: {name: "Java Puzzler", description: "Best java puzzel book", author: "Joshua Bloach", title: "The Java Puzzler", pages: 275}
+    ) {
+        id
+        name
+        description
+        author
+        title
+        pages
+    }
+}
+
+
+###

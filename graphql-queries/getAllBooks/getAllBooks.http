@@ -1,0 +1,17 @@
+GRAPHQL http://localhost:9090/graphql
+
+query GetAllBooks {
+    getAllBooks {
+        id
+        name
+        description
+        author
+        title
+        pages
+    }
+}
+
+<> 2023-08-11T230643.200.json
+
+
+###

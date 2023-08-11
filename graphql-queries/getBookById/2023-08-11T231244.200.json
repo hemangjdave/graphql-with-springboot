@@ -1,0 +1,12 @@
+{
+  "data": {
+    "getBookById": {
+      "id": "1",
+      "name": "JLS",
+      "description": "Java language specification",
+      "author": "James gosling",
+      "title": "Java Language Specifications",
+      "pages": 800
+    }
+  }
+}

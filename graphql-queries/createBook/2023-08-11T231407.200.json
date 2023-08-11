@@ -1,0 +1,12 @@
+{
+  "data": {
+    "createBook": {
+      "id": "5",
+      "name": "Java Puzzler",
+      "description": "Best java puzzel book",
+      "author": "Joshua Bloach",
+      "title": "The Java Puzzler",
+      "pages": 275
+    }
+  }
+}

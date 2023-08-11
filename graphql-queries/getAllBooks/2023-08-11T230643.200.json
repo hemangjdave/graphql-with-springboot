@@ -1,0 +1,38 @@
+{
+  "data": {
+    "getAllBooks": [
+      {
+        "id": "1",
+        "name": "JLS",
+        "description": "Java language specification",
+        "author": "James gosling",
+        "title": "Java Language Specifications",
+        "pages": 800
+      },
+      {
+        "id": "2",
+        "name": "Effective Java",
+        "description": "Effective Java for java developers",
+        "author": "Joshua Bloach",
+        "title": "Effective java",
+        "pages": 475
+      },
+      {
+        "id": "3",
+        "name": "java Concurrency",
+        "description": "Java Concurrency in practice for java developers",
+        "author": "Brian Goetz",
+        "title": "Java Concurrency",
+        "pages": 525
+      },
+      {
+        "id": "4",
+        "name": "Java Puzzler",
+        "description": "Best java puzzel book",
+        "author": "Joshua Bloach",
+        "title": "The Java Puzzler",
+        "pages": 275
+      }
+    ]
+  }
+}

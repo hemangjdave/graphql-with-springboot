@@ -1,0 +1,12 @@
+GRAPHQL http://localhost:9090/graphql
+
+query GetBookById {
+    getBookById(bookId: 1) {
+        id
+        name
+        description
+        author
+        title
+        pages
+    }
+}
